@@ -2,7 +2,7 @@
 //                                                                           //
 //    Ruby-Hidariue                                                          //
 //                                                                           //
-//    version1.0                                                             //
+//    version1.01                                                            //
 //                                            Author Tatsuhiro Tsukagoshi    //
 //                                                                           //
 ///////////////////////////////////////////////////////////////////////////////
@@ -12,7 +12,10 @@ What's this(何これ)
 
 How to Use(使いかた)
     ruby hidariue.rb
-    gifフォルダが生成され、某動画サイトの左上が収集されます。
+        gifフォルダが生成され、某動画サイトの左上が収集されます。
+    
+    ruby hidariue.rb -help
+        使いかたが表示されます。
 
 Contact(連絡先)
     @mori_one_1(twitter)
